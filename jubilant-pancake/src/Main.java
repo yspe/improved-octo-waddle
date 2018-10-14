@@ -1,5 +1,5 @@
 
-public class main {
+public class Main {
 	static private PancakeCooking pc = new Pancake();
 	
 	public static void main(String[] args) {
